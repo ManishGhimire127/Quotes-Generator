@@ -11,6 +11,33 @@ const quotes = [
     text: "Write books only if you are going to say in them the things you would never dare confide to anyone",
     author: "Emil Cioran",
   },
+	 {
+    text: "Be worthy of the people and things you get in your life.",
+    author: "Sulabh Bashyal",
+  },
+	 {
+    text: "Without music, life would be a mistake.",
+    author: "Friedrich Nietzsche",
+  },
+	 {
+    text: "A question that sometimes drives me hazy: am I or are the others crazy?",
+    author: "Albert Einstein",
+  },
+	{
+    text: "We are surrounded by story.",
+    author: "Alice McDermott",
+  },
+	{
+    text: "The past beats inside me like a second heart.",
+    author: "John Banville",
+  }
+	
+	
+	 {
+    text: "To doubt is better, because it helps understand, aids searching. Question is everything, answer is maturity",
+    author: "Laxmi Prasad Devkota",
+  },
+	
   {
     text: "If you wish to make an apple pie from scratch, you must first invent the universe",
     author: "Carl Sagan",
